@@ -1,0 +1,1 @@
+En este ejercicio se almacenan palabras introducidas por teclado en un ArrayList, hasta que el usuario escriba FIN, despues se solicita una vocal recorremos la lista utilizando iterator si una palabra contiene esa vocal (da igual si mayuscula o minuscula) la eliminamos con it.remove()
